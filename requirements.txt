@@ -1,1 +1,6 @@
+streamlit
+pdfplumber
+scikit-learn
+pandas
+matplotlib
 fpdf
