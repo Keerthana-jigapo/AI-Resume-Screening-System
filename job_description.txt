@@ -1,0 +1,10 @@
+Data Analyst Job
+
+Required Skills:
+- Python
+- SQL
+- Machine Learning
+- Power BI
+- Excel
+- Communication
+- Statistics
