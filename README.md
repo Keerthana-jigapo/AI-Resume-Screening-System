@@ -1,31 +1,60 @@
-# AI Resume Screening System
+# 📄 AI Resume Screening System
 
-## Overview
-AI Resume Screening System is a Streamlit-based web application that compares a candidate's resume with a job description using Natural Language Processing (NLP).
+## 📌 Project Overview
 
-## Features
+The AI Resume Screening System is an ATS (Applicant Tracking System) based web application developed using Python and Streamlit. It compares a candidate's resume with a given job description and calculates the matching score.
+
+---
+
+## 🚀 Features
+
 - Upload Resume (PDF)
-- Enter Job Description
-- Resume Matching Score
+- ATS Matching Score
+- Resume & Job Description Comparison
 - Matched Skills
 - Missing Skills
+- Skills Distribution Pie Chart
 - Resume Suggestions
-- Skills Distribution Chart
+- Final Recommendation
+- Download ATS Report (PDF)
 
-## Technologies Used
+---
+
+## 🛠 Technologies Used
+
 - Python
 - Streamlit
 - Scikit-learn
-- PDFPlumber
+- PyPDF2
 - Matplotlib
 - FPDF
 
-## Installation
+---
+
+## 📊 Output
+
+The system displays:
+
+- ATS Score
+- Matched Skills
+- Missing Skills
+- Pie Chart
+- Suggestions
+- PDF Report
+
+---
+
+## ▶️ How to Run
 
 ```bash
 pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
 
-## Author
+---
+
+## 👩‍💻 Developed By
+
 Keerthana Rajendran
+
+B.Tech Artificial Intelligence & Data Science
